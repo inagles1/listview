@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="opcion_area_volumen">" Pptions"</string>
+    <string name="area">Area</string>
+    <string name="volumen">Volume</string>
+    <string name="cuadrado">Squere</string>
+    <string name="rectangulo">Rectangle</string>
+    <string name="triangulo">Triangle</string>
+    <string name="circulo">Circle</string>
+    <string name="valor">Side value</string>
+    <string name="base">Base</string>
+    <string name="altura">Height</string>
+    <string name="esfera">Sphere</string>
+    <string name="cilindro">Cylinder</string>
+    <string name="cono">Cone</string>
+    <string name="cubo">Cube</string>
+    <string name="calcular">Calculate</string>
+    <string name="borrar">Delete</string>
+    <string name="lista_operacion">Operations List</string>
+    <string name="op_realizada">Operations performed</string>
+    <string name="calcular_area">Calculate area</string>
+    <string name="calcular_volumen">Calculate volume</string>
+    <string name="no">No</string>
+    <string name="operacion">Operation</string>
+    <string name="dato">Data</string>
+    <string name="resultado">Result</string>
+    <string name="lado">Side</string>
+    <string name="guardar">Save</string>
+    <string name="area_guardada">" Saved area"</string>
+    <string name="volumen_guardado">" Saved volume"</string>
+    <string name="error_calcular">Could not calculate please enter required fields</string>
+    <string name="error_guardar">Could not save please enter required fields</string>
+    <string name="radio">Radio</string>
+    <string name="area_base">" Base area"</string>
+</resources>

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="opcion_area_volumen">Opciones</string>
+    <string name="area">Área</string>
+    <string name="volumen">Volumen</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectángulo</string>
+    <string name="triangulo">Triángulo</string>
+    <string name="circulo">Círculo</string>
+    <string name="valor">Valor del lado</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="esfera">Esfera</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="cono">Cono</string>
+    <string name="cubo">Cubo</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="lista_operacion">Lista Operaciones</string>
+    <string name="op_realizada">Operaciones realizadas</string>
+    <string name="calcular_area">Calcular area</string>
+    <string name="calcular_volumen">Calcular volumen</string>
+    <string name="no">No</string>
+    <string name="operacion">Operación</string>
+    <string name="dato">Datos</string>
+    <string name="resultado">Resultado</string>
+    <string name="lado">Lado</string>
+    <string name="guardar">Guardar</string>
+    <string name="area_guardada">Área guardada</string>
+    <string name="volumen_guardado">Volumen guardado</string>
+    <string name="error_calcular">No se pudo calcular porfavor ingresar campos necesarios</string>
+    <string name="error_guardar">"No se pudo guardar, ingrese los campos obligatorios"</string>
+    <string name="radio">Radio</string>
+    <string name="area_base">Área base</string>
+
+    <string-array name="opciones_ar_vol">
+        <item>@string/area</item>
+        <item>@string/volumen</item>
+        <item>@string/op_realizada</item>
+    </string-array>
+
+    <string-array name="cal_area">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+
+    <string-array name="cal_volumen">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+</resources>
